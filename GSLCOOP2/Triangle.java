@@ -1,7 +1,7 @@
 package GSLCOOP2;
 
 //Triangle class extending Shape and implementing Calculable
-class Triangle extends Shape implements Calculable {
+class Triangle extends Shape implements Calcu {
  private double base;
  private double height;
  private double side1;
