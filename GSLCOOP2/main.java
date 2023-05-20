@@ -10,7 +10,7 @@ abstract class Shape {
 }
 
 // Interface representing Calculable behavior
-interface Calculable {
+interface Calcu {
     double calculateArea();
 
     double calculatePerimeter();
