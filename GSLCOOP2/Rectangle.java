@@ -1,7 +1,7 @@
 package GSLCOOP2;
 
 //Rectangle class extending Shape and implementing Calculable
-class Rectangle extends Shape implements Calculable {
+class Rectangle extends Shape implements Calcu {
  private double length;
  private double width;
 
