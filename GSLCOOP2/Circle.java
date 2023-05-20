@@ -1,7 +1,7 @@
 package GSLCOOP2;
 
 //Circle class extending Shape and implementing Calculable
-class Circle extends Shape implements Calculable {
+class Circle extends Shape implements Calcu {
  private double radius;
 
  public Circle(double radius) {
